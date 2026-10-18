@@ -311,7 +311,7 @@ p.note { display: none; }
 <a href="20261018_00001.png" target="_blank"><img src="20261018_00001.png" alt="サンプル画像" class="responsive-media"></a>
 
 
-<h2><span class="yellow">今回の市内走行動画</span></h2>
+<h2><span class="yellow">今回の市内走行動画、今回はカメラの設置をミスって、3回ほどカメラが落下しちゃってます</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ir9_oNxE5fE?si=WVS2KWO-4yA-oilr&autoplay=1&mute=1&loop=1&playlist=Ir9_oNxE5fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
